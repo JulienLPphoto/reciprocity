@@ -157,6 +157,19 @@ body {
   justify-content: center;
 }
 
+.copyright {
+  position: fixed;
+  bottom: 1em;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #f8f8f8;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 0.75em;
+  text-align: center;
+  opacity: 0.7;
+}
+
 /* Remove default styles */
 #root, .card, .read-the-docs, .logo, .logo.react {
   all: unset;

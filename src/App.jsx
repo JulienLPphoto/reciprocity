@@ -77,6 +77,10 @@ function App() {
           </div>
         </div>
       </div>
+
+      <div className="copyright">
+        コピライト © 2025 julienlp
+      </div>
     </div>
   );
 }
