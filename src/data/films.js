@@ -1,7 +1,7 @@
 export const films = [
   //Kodak//
   { id: 'portra160', name: 'Kodak Portra 160', constant: 1.33, manufacturer: 'Kodak' },
-  { id: 'portra400', name: 'Kodak Portra 400', constant: 1.33, manufacturer: 'Kodak'},
+  { id: 'portra400', name: 'Kodak Portra 400', constant: 1.33, manufacturer: 'Kodak' },
   { id: 'portra800', name: 'Kodak Portra 800', constant: 1.35, manufacturer: 'Kodak' },
   { id: 'ektar100', name: 'Kodak Ektar 100', constant: 1.31, manufacturer: 'Kodak' },
   { id: 'proimage100', name: 'Kodak ProImage 100', constant: 1.33, manufacturer: 'Kodak' },
@@ -16,7 +16,7 @@ export const films = [
   { id: 'fuji400', name: 'Fujifilm 400', constant: 1.41, manufacturer: 'Fujifilm' },
   { id: 'superia400', name: 'Fujifilm Superia 400', constant: 1.33, manufacturer: 'Fujifilm' },
   //CineStill//
-  { id: 'cinestill800t', name: 'Cinestill 800t', constant: 1.33, manufacturer: 'CineStill'  },
+  { id: 'cinestill800t', name: 'Cinestill 800t', constant: 1.33, manufacturer: 'CineStill' },
   //Ilford//
   { id: 'sfx', name: 'Ilford SFX 200', constant: 1.43, manufacturer: 'Ilford' },
   { id: 'panf', name: 'Ilford Pan F+', constant: 1.33, manufacturer: 'Ilford' },
@@ -28,6 +28,6 @@ export const films = [
   { id: 'xp2', name: 'Ilford XP2+', constant: 1.31, manufacturer: 'Ilford' },
   { id: 'ortho', name: 'Ilford Ortho+', constant: 1.25, manufacturer: 'Ilford' },
   //Kentmere//
-  { id: 'k100', name: 'Kentmere 100', constant: 1.26, manufacturer: 'Kentemere' },
-  { id: 'k400', name: 'Kentmere 400', constant: 1.30, manufacturer: 'Kentemere' },
+  { id: 'k100', name: 'Kentmere 100', constant: 1.26, manufacturer: 'Kentmere' },
+  { id: 'k400', name: 'Kentmere 400', constant: 1.30, manufacturer: 'Kentmere' },
 ];
